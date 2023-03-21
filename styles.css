@@ -2,7 +2,6 @@ body {
     background-color: lightcoral;
     text-align: center;
 }
-
 h1 {
     font-weight: 1000;
     font-family: 'Times New Roman', Times, serif;
@@ -13,4 +12,17 @@ h1 {
     background-color: black;
     color: darkgreen;
 }  
+img source {
+    animation: cheese 3s ease-in;
+}
+@keyframes cheese {
+    0% {
 
+    }
+    50% {
+    animation-timing-function: ease-in;
+    }
+    100% {
+
+    }
+}
