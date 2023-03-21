@@ -1,0 +1,16 @@
+body {
+    background-color: lightcoral;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 1000;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    
+}
+.aboutme {
+    background-color: black;
+    color: darkgreen;
+}  
+
